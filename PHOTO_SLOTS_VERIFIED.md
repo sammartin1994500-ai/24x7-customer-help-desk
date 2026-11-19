@@ -1,0 +1,1 @@
+Photo slots exactly reflect the supplied table. Main portraits use slot 0; bride extra uses slot -1; groom gallery slots 2-10. Groom slot 1 was not supplied. Photos remain online until DOWNLOAD_ALL_PHOTOS.ps1 successfully downloads them.

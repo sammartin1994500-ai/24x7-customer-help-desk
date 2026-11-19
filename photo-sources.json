@@ -1,0 +1,191 @@
+[
+  {
+    "person": "bride",
+    "slot": 0,
+    "filename": "bride-00.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/2558200da_WhatsAppImage2026-11-19at13434AM.jpeg",
+    "alt": "Shanti Thakur"
+  },
+  {
+    "person": "bride",
+    "slot": -1,
+    "filename": "bride-extra-minus-1.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/149eed1ed_WhatsAppImage2026-11-19at13434AM.jpeg",
+    "alt": "Shanti Thakur additional photograph"
+  },
+  {
+    "person": "bride",
+    "slot": 1,
+    "filename": "bride-01.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/1628abf9a_WhatsAppImage2026-11-19at13434AM1.jpeg",
+    "alt": "Shanti Thakur photograph 1"
+  },
+  {
+    "person": "bride",
+    "slot": 2,
+    "filename": "bride-02.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/c66f212fe_WhatsAppImage2026-11-19at13434AM.jpeg",
+    "alt": "Shanti Thakur photograph 2"
+  },
+  {
+    "person": "bride",
+    "slot": 3,
+    "filename": "bride-03.jpg",
+    "url": "https://i.ibb.co/jPBcf7jV/Whats-App-Image-2026-11-19-at-1-43-35-AM.jpg",
+    "alt": "Shanti Thakur photograph 3"
+  },
+  {
+    "person": "bride",
+    "slot": 4,
+    "filename": "bride-04.jpg",
+    "url": "https://i.ibb.co/Xk53WC03/Whats-App-Image-2026-11-19-at-1-43-36-AM-1.jpg",
+    "alt": "Shanti Thakur photograph 4"
+  },
+  {
+    "person": "bride",
+    "slot": 5,
+    "filename": "bride-05.jpg",
+    "url": "https://i.ibb.co/M5gSPL8Z/Whats-App-Image-2026-11-19-at-1-43-36-AM-2.jpg",
+    "alt": "Shanti Thakur photograph 5"
+  },
+  {
+    "person": "bride",
+    "slot": 6,
+    "filename": "bride-06.jpg",
+    "url": "https://i.ibb.co/4Rjw2Z78/Whats-App-Image-2026-11-19-at-1-43-36-AM.jpg",
+    "alt": "Shanti Thakur photograph 6"
+  },
+  {
+    "person": "bride",
+    "slot": 7,
+    "filename": "bride-07.jpg",
+    "url": "https://i.ibb.co/KpyPv43g/Whats-App-Image-2026-11-19-at-1-43-37-AM.jpg",
+    "alt": "Shanti Thakur photograph 7"
+  },
+  {
+    "person": "bride",
+    "slot": 8,
+    "filename": "bride-08.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/5ff8362f4_WhatsAppImage2026-11-19at21257AM1.jpeg",
+    "alt": "Shanti Thakur photograph 8"
+  },
+  {
+    "person": "bride",
+    "slot": 9,
+    "filename": "bride-09.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/d66ce1a86_WhatsAppImage2026-11-19at24620AM.jpeg",
+    "alt": "Shanti Thakur photograph 9"
+  },
+  {
+    "person": "bride",
+    "slot": 10,
+    "filename": "bride-10.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/20207b62e_WhatsAppImage2026-11-19at24620AM4.jpeg",
+    "alt": "Shanti Thakur photograph 10"
+  },
+  {
+    "person": "decor",
+    "slot": 0,
+    "filename": "decor-01.png",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/ef9ba6f6f_generated_d20ba53a.png",
+    "alt": "Wedding mandap with marigold and brass diyas"
+  },
+  {
+    "person": "decor",
+    "slot": 0,
+    "filename": "decor-02.png",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/69b0e9b5a_generated_67831cec.png",
+    "alt": "Mithila Wakes"
+  },
+  {
+    "person": "decor",
+    "slot": 0,
+    "filename": "decor-03.png",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/47b3169c8_generated_7bb2bedb.png",
+    "alt": "The Temple Bells"
+  },
+  {
+    "person": "decor",
+    "slot": 0,
+    "filename": "decor-04.png",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/e3c287286_generated_dd1119e2.png",
+    "alt": "Diyas on the Water"
+  },
+  {
+    "person": "groom",
+    "slot": 0,
+    "filename": "groom-00.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/6436cbfd3_WhatsAppImage2026-11-19at24619AM.jpeg",
+    "alt": "Ankit Jha"
+  },
+  {
+    "person": "groom",
+    "slot": 2,
+    "filename": "groom-02.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/b1d925e3a_WhatsAppImage2026-11-19at24620AM1.jpeg",
+    "alt": "Ankit Jha photograph 2"
+  },
+  {
+    "person": "groom",
+    "slot": 3,
+    "filename": "groom-03.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/0f3ac444b_WhatsAppImage2026-11-19at24922AM2.jpeg",
+    "alt": "Ankit Jha photograph 3"
+  },
+  {
+    "person": "groom",
+    "slot": 4,
+    "filename": "groom-04.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/12aa186d0_WhatsAppImage2026-11-19at24921AM.jpeg",
+    "alt": "Ankit Jha photograph 4"
+  },
+  {
+    "person": "groom",
+    "slot": 5,
+    "filename": "groom-05.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/8f59b0300_WhatsAppImage2026-11-19at24922AM1.jpeg",
+    "alt": "Ankit Jha photograph 5"
+  },
+  {
+    "person": "groom",
+    "slot": 6,
+    "filename": "groom-06.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/cd5623881_WhatsAppImage2026-11-19at24922AM.jpeg",
+    "alt": "Ankit Jha photograph 6"
+  },
+  {
+    "person": "groom",
+    "slot": 7,
+    "filename": "groom-07.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/2bba203df_WhatsAppImage2026-11-19at32302AM.jpeg",
+    "alt": "Ankit Jha photograph 7"
+  },
+  {
+    "person": "groom",
+    "slot": 8,
+    "filename": "groom-08.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/1b8243f8c_WhatsAppImage2026-11-19at24620AM2.jpeg",
+    "alt": "Ankit Jha photograph 8"
+  },
+  {
+    "person": "groom",
+    "slot": 9,
+    "filename": "groom-09.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/dcb5b4646_WhatsAppImage2026-11-19at13435AM.jpeg",
+    "alt": "Ankit Jha photograph 9"
+  },
+  {
+    "person": "groom",
+    "slot": 10,
+    "filename": "groom-10.jpeg",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/2358e5d2b_WhatsAppImage2026-11-19at31807AM1.jpeg",
+    "alt": "Ankit Jha photograph 10"
+  },
+  {
+    "person": "logo",
+    "slot": 0,
+    "filename": "logo-01.png",
+    "url": "https://media.base44.com/images/public/6af4f38adb46dcd54314a5bb/b0c6f52b5_logo.png",
+    "alt": ""
+  }
+]
